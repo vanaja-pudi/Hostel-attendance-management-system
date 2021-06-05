@@ -19,7 +19,4 @@ At the end of the day, the excel sheet containing attendance information regardi
            ▪ Develop a database for the attendance management system.
            ▪Allow new students or staff to store their faces in the database by using a GUI.
            ▪Able to show an indication to the user whether the face-recognition process is successful or not.
-           ▪There is no chance of manipulation
-   Outputs:
-                    
-          ![Screenshot (45)](https://user-images.githubusercontent.com/84653753/120883247-b3dbff00-c5f9-11eb-8b00-ed81e042ec92.png)
+           ▪There is no chance of manipulation.
